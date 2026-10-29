@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a cybersecurity student<br>🌍 I'm based in India<br>🔭 I’m currently working on python password checker<br>👯 I’m looking to collaborate on interesting projects<br>🌱 I’m currently learning python automation<br>
+I'm a cybersecurity student<br>🌍 I'm based in Germany<br>🔭 I’m currently working on python password checker<br>👯 I’m looking to collaborate on interesting projects<br>🌱 I’m currently learning python automation<br>
 
 
 ## 🌐 Socials:
